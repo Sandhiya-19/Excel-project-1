@@ -3,7 +3,10 @@
 This project showcases an interactive *Sales Analysis Dashboard* built using *Microsoft Excel*. It analyzes over 1,000 customer orders and provides deep insights into revenue trends, product performance, and customer behavior for an online gifting platform.
 ## Table of contents
 
+- [Key Features](#key-features)
+- [Learning Outcome](#learning-outcome)
 - [Dash Board](#dash-board)
+- [Future improvements](future-improvements)
 - [File of the project](#file-of-the-project)
 - [Data Sources](#data-sources)
   
@@ -50,16 +53,16 @@ This was my first hands-on Excel project where I gained experience in:
 
 ---
 
+## Dash board
+
+![Dash board](https://github.com/user-attachments/assets/31434c27-b05b-4576-af7e-67b5f3542b2d)
+
+---
+
 ## Future Improvements
 - Integrate external data sources (e.g., via Power BI)
 - Automate data refresh using VBA/macros
 - Add trend analysis and forecasting features
-
----
-
-## Dash board
-
-![Dash board](https://github.com/user-attachments/assets/31434c27-b05b-4576-af7e-67b5f3542b2d)
 
 ---
 
